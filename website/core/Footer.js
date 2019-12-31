@@ -36,21 +36,7 @@ class Footer extends React.Component {
             )}
           </a>
           <div>
-            <h5>title</h5>
-            <a href={this.docUrl('doc1.html', this.props.language)}>
-              link
-            </a>
-
-          </div>
-          <div>
-            <h5>title</h5>
-            <a href={this.pageUrl('users.html', this.props.language)}>
-              link
-            </a>
-
-          </div>
-          <div>
-            <h5>title</h5>
+            <h5>sitemap</h5>
             <a href={`${this.props.config.baseUrl}blog`}>link</a>
            
             {this.props.config.twitterUsername && (

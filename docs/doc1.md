@@ -1,10 +1,10 @@
 ---
 id: doc1
 title: DocHub Introduction
-sidebar_label: Example Page
+sidebar_label: Demo Page
 ---
 
-Check the [documentation](http://www.blueteq.com) for how to use DocHub.
+Check the [documentation.](doc2.md) for how to use DocHub.
 
 ## Section 1
 

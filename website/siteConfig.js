@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'doc2', label: 'Docs'},
     {page: 'help', label: 'Login'},
   ],
 
@@ -47,8 +47,8 @@ const siteConfig = {
 
   /* path to images for header/footer */
     headerIcon: 'img/btlogo_9lC_icon.ico',
-    footerIcon: 'img/',
-    favicon: 'img/btlogo_9lC_icon.ico',
+    footerIcon: 'img/favicon.ico',
+    favicon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
@@ -98,7 +98,7 @@ const siteConfig = {
   // enableUpdateBy: true,
 
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...

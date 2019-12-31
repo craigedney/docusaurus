@@ -1,13 +1,39 @@
 ---
 id: doc3
-title: Example 3
+title: How to Login to Trust
+sidebar_label: Login to Trust
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Login to [**Trust**](https://www.blueteq-secure.co.uk/Trust/default.aspx) using the online portal.
+## 1. Accessing the Portal
+Enter the **Trust URL** into your browser address bar:
+```
+https://www.blueteq-secure.co.uk/Trust/default.aspx
+```
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+![Image of Step 1](/img/doc_images/doc3/step1.png)
+## 2. Enter Username
+Enter your **Username** into the **Login** field. 
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
+![Image of Step 2](/img/doc_images/doc3/step2.png)
 
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
+If you are unsure what this is, find out [how to find your username.](doc2.md)
+## 3. Enter Password
+Enter your **Password** into the **Password** field. 
 
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+![Image of Step 3](/img/doc_images/doc3/step3.png)
+
+If you are unsure what this is, find out [how to find your password.](doc2.md)
+## 4. Click Login
+Click the **Login** button.
+
+![Image of Step 4](/img/doc_images/doc3/step4.png)
+## 5. Success!
+Upon successful authentication, you will be presented with this screen. 
+![Image of Step 5](/img/doc_images/doc3/step5.png)
+
+
+ Back to [Top.](doc3.md) | Follow our [next steps.](doc2.md)
+------------ | -------------
+
+If you still require help, contact our multi-award winning [support team.]()
+
