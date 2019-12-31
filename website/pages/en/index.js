@@ -69,9 +69,10 @@ class HomeSplash extends React.Component {
                 </div>
                 <div className="">
                     <p>Stuff that needs adding:</p>
-                        <li>Search Bar</li>
-                        <li>.md Document Creator</li>
-                        <li>Team Only Section</li>
+                    <li>Search Bar</li>
+                    <li>.md Document Creator</li>
+                    <li>Team Only Section</li>
+                    <li>PDF Download?</li>
                 </div>
             </SplashContainer>
         );

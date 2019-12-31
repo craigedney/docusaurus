@@ -1,6 +1,6 @@
 ---
 id: doc4
-title: How run a SQL UPDATE statement
+title: How to run an SQL UPDATE statement
 sidebar_label: SQL UPDATE
 ---
 The **UPDATE** statement is used to modify the existing records in a table.

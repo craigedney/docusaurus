@@ -24,25 +24,13 @@ function Help(props) {
             <Container className="mainContainer documentContainer postContainer">
                 <div className="post">
                     <header className="postHeader">
-                        <h1>Login</h1>
+                        <h1>Create Document</h1>
                     </header>
-                    <form action="" class="box">
-                        <div class="field">
-                            <label for="" class="label">Email</label>
-                            <div class="field">
-                                <input type="email" placeholder="e.g. example@blueteq.com" class="input" required />
-                            </div>
-                            <label for="" class="label">Password</label>
-                            <div class="field">
-                                <input type="password" placeholder="*******" class="input" required />
-                            </div>
-                            <div class="field">
-                                <button class="button is-success">
-
-                                    Login
-                    </button>
-                            </div>
-                        </div>
+                    <form>
+                        <textarea rows="25" cols="150">
+                            # new document
+                        </textarea>
+                        <input type="submit" value="Submit" />
                     </form>
                 </div>
             </Container>

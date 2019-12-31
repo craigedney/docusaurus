@@ -35,10 +35,7 @@ class Footer extends React.Component {
               />
             )}
           </a>
-          <div>
-            <h5>sitemap</h5>
-            <a href={`${this.props.config.baseUrl}blog`}>link</a>
-           
+          <div>   
             {this.props.config.twitterUsername && (
               <div className="social">
                 <a
